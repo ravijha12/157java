@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+*{
+	margin:0px;
+	padding:0px;
+}
+#container{
+	width:100%;
+	height:140vh;
+	background-color:powderblue;
+}
+#container #header{
+	background-color:cyan;
+	width:100%;
+	height:20vh;
+	text-align:center;
+	
+}
+#container #body{
+	background-color:#FFC0CB;
+	width:100%;
+	height:100vh;
+}
+#container #footer{
+	background-color:#4B0082;
+	width:100%;
+	height:20vh;
+}
